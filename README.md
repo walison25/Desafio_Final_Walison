@@ -14,4 +14,4 @@ Serão avaliados os seguintes pontos:
     2. Fluxos dos testes.  
     3. Boas práticas de mapeamentos dos elementos.  
     4. Independência dos casos de testes.  
-    5. Nomeclatura dos casos de testes.  
+    5. Nomeclatura dos casos de testes.    
