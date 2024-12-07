@@ -1,5 +1,6 @@
 # Desafio de testes <h1>  
 **OBJETIVO:** Realizar a automação de alguns cenários de testes usando o cypress. Vamos colocar em prática todos os conhecimentos que foram adquiridos durante as aulas. Segue as instruções:  
+
     1. Utilize a URL: <https://www.saucedemo.com/>  
     2. Escolha no mínimo 5 cenários de testes para automatizar. Priorize os fluxo principais e de exceção.  
     3. Aplique o padrão Page Object para montar uma arquitetura de testes organizada.  
