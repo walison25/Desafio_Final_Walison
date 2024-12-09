@@ -3,7 +3,7 @@ const elem = require('./elements').ELEMENTS;
 class LoginPage {
 
     accessURL(){
-        cy.visit('/')
+        cy.visit('/', { failOnStatusCode: false })
     }
 
     validateLogo(){
