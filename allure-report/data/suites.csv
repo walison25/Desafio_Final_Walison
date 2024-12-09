@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2487","Validar página de login","","Mon Dec 09 17:55:24 BRT 2024","passed","Mon Dec 09 17:55:27 BRT 2024","","Acessar URL","Acessar URL","Validar página de login"
+"","293","Validar inclusão de itens no carrinho de compras","","Mon Dec 09 17:55:28 BRT 2024","passed","Mon Dec 09 17:55:28 BRT 2024","","Acessar URL","Acessar URL","Validar inclusão de itens no carrinho de compras"
+"","393","Validar carrinho de compras","","Mon Dec 09 17:55:28 BRT 2024","passed","Mon Dec 09 17:55:29 BRT 2024","","Acessar URL","Acessar URL","Validar carrinho de compras"
+"","1189","Validar realização do login","","Mon Dec 09 17:55:27 BRT 2024","passed","Mon Dec 09 17:55:28 BRT 2024","","Acessar URL","Acessar URL","Validar realização do login"
+"","1317","Validar e preencher campos na página checkout - suas informações","","Mon Dec 09 17:55:29 BRT 2024","passed","Mon Dec 09 17:55:30 BRT 2024","","Acessar URL","Acessar URL","Validar e preencher campos na página checkout - suas informações"
+"","204","Validar página de produtos","","Mon Dec 09 17:55:28 BRT 2024","passed","Mon Dec 09 17:55:28 BRT 2024","","Acessar URL","Acessar URL","Validar página de produtos"

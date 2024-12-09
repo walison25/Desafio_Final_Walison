@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1733777724688' stop='1733777730628'>
+    <name>Acessar URL</name>
+    <title>Acessar URL</title>
+    <test-cases>
+        <test-case start='1733777724688' status='passed' stop='1733777727175'>
+            <name>Validar página de login</name>
+            <title>Validar página de login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1733777727186' status='passed' stop='1733777728375'>
+            <name>Validar realização do login</name>
+            <title>Validar realização do login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1733777728392' status='passed' stop='1733777728596'>
+            <name>Validar página de produtos</name>
+            <title>Validar página de produtos</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1733777728604' status='passed' stop='1733777728897'>
+            <name>Validar inclusão de itens no carrinho de compras</name>
+            <title>Validar inclusão de itens no carrinho de compras</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1733777728909' status='passed' stop='1733777729302'>
+            <name>Validar carrinho de compras</name>
+            <title>Validar carrinho de compras</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1733777729311' status='passed' stop='1733777730628'>
+            <name>Validar e preencher campos na página checkout - suas informações</name>
+            <title>Validar e preencher campos na página checkout - suas informações</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

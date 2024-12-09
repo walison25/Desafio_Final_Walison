@@ -3,7 +3,7 @@
     "web": "cypress open",
     "back": "cypress run -b chrome",
     "mobile": "cypress run -b chrome --config viewportWidth=400,viewportHeight=800",
-    "browser:chrome": "npx cypress run --browser=chrome --headless --spec cypress/e2e/**.cy.js --reporter mocha-allure-reporter",
+    "browser:chrome": "npx cypress run --browser=chrome --headed --spec cypress/e2e/**.cy.js --reporter mocha-allure-reporter",
     "report:allure": "allure generate allure-results --clean -o allure-report && allure open  allure-report"
   },
   "devDependencies": {
