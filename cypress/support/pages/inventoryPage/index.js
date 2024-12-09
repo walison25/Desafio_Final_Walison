@@ -31,8 +31,15 @@ class InventoryPage {
      
     }
 
-    realizeClickItem(){
-        cy.get(elem.productName).should('be.visible').click()
+    validateAddProductItemBtn(){
+        cy.get(elem.btn_AddProduct).should('be.visible').contains('Add to cart').click()
+        cy.get(elem.removeProductShopping).should('be.visible').contains('Remove')
+        cy.get(elem.shoppingCartBadge).should('be.visible').contains('1')
+        
+    }
+
+    acessShoppingCart(){
+        cy.get(elem.shoppingCartIcon).should('be.visible').click()
     }
 
 }

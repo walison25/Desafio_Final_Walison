@@ -1,6 +1,10 @@
 export const ELEMENTS = {
-    login_logo: 'div[class="login_logo"]',
-    login_username:'input[data-test="username"]',
-    login_password:'input[data-test="password"]',
-    login_button:'input[data-test="login-button"]'
-}
+    shop_productTitle: '#item_4_title_link',
+    shop_title:'span[class="title"]',
+    shop_labelQtd:'div[class="cart_quantity_label"]',
+    shop_labelitemDescription:'div[class="cart_desc_label"]',
+    shop_btnContinueShopping: '#continue-shopping',
+    shop_btnCheckout: '#checkout'
+
+
+} 
